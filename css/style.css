@@ -1,7 +1,11 @@
 body {
     font-family: "Arial", sans-serif;
-    margin: 0;
-    
+    margin: 0 auto;
+    background-color: #fcb040!important;
+}
+.container {
+    margin: 0 auto;
+    background-color: #fcb040!important;
 }
 .text-center 
 {
@@ -30,6 +34,6 @@ footer {
    width:100%;
 }
 .donkergrijs {
-    background-color: #989898;
+    background-color: #fcb040;
 }
 
